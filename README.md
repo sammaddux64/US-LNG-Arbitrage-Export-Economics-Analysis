@@ -60,10 +60,8 @@ respond to arbitrage signals.
 
 ## Dashboard Preview
 
-### Market & Arbitrage Overview
-![Market Overview](images/page1_dashboard.png)
+![Market Overview](images/Page_1_Dashboard.png)
+![Exports vs Margin](images/Page_2_Dashboard.png)
 
-### Exports vs Arbitrage Validation
-![Exports vs Margin](images/page2_dashboard.png)
 
 
