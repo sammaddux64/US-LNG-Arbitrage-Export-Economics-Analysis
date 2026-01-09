@@ -57,3 +57,12 @@ respond to arbitrage signals.
 ## How to View
 - Download the **PDF** for a static overview of the analysis
 - Open the **PBIX** file in Power BI Desktop to explore the interactive model
+
+  ## Dashboard Preview
+
+### Market & Arbitrage Overview
+![Market Overview](images/Page_1_Dashboard.png)
+
+### Exports vs Arbitrage Validation
+![Exports vs Margin](images/Page_2_Dashboard.png)
+
